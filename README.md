@@ -104,3 +104,16 @@ The project includes an interactive Streamlit dashboard displaying:
 ```powershell
 python -m venv venv
 .\venv\Scripts\Activate.ps1
+
+
+## Application Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-10-11%20172857.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-10-11%20172932.png)
+
+![Screenshot 3](screenshots/Screenshot%202026-10-11%20172958.png)
+
+![Screenshot 4](screenshots/Screenshot%202026-10-11%20173023.png)
+
+![Screenshot 5](screenshots/Screenshot%202026-10-11%20173042.png)
